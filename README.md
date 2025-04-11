@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practising the GitHub flow
+About-Me: 
+My name is K.Bhuvaneshwari and I'm working with the branching in GitHub.
